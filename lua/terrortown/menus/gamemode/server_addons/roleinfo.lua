@@ -8,8 +8,6 @@ function CLGAMEMODESUBMENU:Populate(parent)
 		label = "role_info_help_menu"
 	})
 
-	// TODO maybe implementing some convar settings
-
     local openEditorButton = vgui.Create( "DButton", form )
     openEditorButton:SetText(LANG.GetTranslation("roleinfo_addon_open_editor"))
     openEditorButton:Dock( TOP )

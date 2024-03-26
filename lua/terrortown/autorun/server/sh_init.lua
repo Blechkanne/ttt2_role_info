@@ -27,7 +27,7 @@ local function SendRoleDescriptions(ply, data)
 end
 
 -- Code
-local fileName = "role_descriptions_v2.json"
+local fileName = "role_descriptions_v3.json"
 local roleDescriptions = ReadStoreData(fileName)
 
 if (roleDescriptions == nil) then

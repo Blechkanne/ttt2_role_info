@@ -394,5 +394,68 @@ When all of the other Traitors die, the Sleeper will convert to the Traitor Team
     },
     ["thrall"] = {
         description = [[The Mesmerist has revived you from the dead! You are now a Traitor]]
-    }
+    },
+    ["godfather"] = {
+        description = [[The Godfather is an role neutral killer role on team mafia has a shop. He also has 150HP]]
+    },
+    ["mafioso"] = {
+        description = [[The Mafioso is a basic killer role in team mafia without something special]]
+    },
+    ["anonymous"] = {
+        description = [[The Anonymous is a simple evil role that, like a serial killer, needs to kill everyone who isn't on there team. Unlike a serial killer,
+the Anonymous has friends (up to 3 by default, modify ttt_anonymous_max to change this).
+However, the Anonymous isn't told who's on their team, and they're individually far weaker than a serial killer, so social deduction is heavily encouraged]]
+    },
+    ["bandit"] = {
+        description = [[The Bandit is an new neutral killer role he is an outlaw. They use the detective shop to do their evil deeds. He pretends to fit in by using a detective shop like a survivalist]]
+    },
+    ["blitz"] = {
+        description = [[The Blitz rampages through town. The new neutral killer role is here. He has no shop but tons of hp to help him win though the mass chaos]]
+    },
+    ["chef"] = {
+        description = [[The Chef is an innocent role that cook and heal for everyone that no matter who every few ten minutes.]]
+    },
+    ["speedrunner"] = {
+        description = [[The Speedrunner is a public evil role, who must act quickly to kill everyone else before their timer runs out.
+While the clock is still ticking they will be gifted with immense speed and will always respawn upon death.
+However, the minute that the timer hits zero they will permanently die.]]
+    },
+    ["mute"] = {
+        description = [[The Mute is an Innocent who can’t use voice or text chat, and can’t equip weapons. They have a fast updating radar which gives them a wealth of information, but they need to find a way to communicate it to people they trust. Without means to deal damage, they need to convince others their information is trustworthy.
+The Mute has valuable location information, but it’s not completely accurate. Their radar has a very low 10 second timer, but is delayed enough where the information could be misleading. Additionally, the role has been designed so a Detective cannot go through a list of players and ask the Mute to “jump” when they reach a Traitor to kill. The information from the Mutes radar is not meant to be perfect.]]
+    },
+    ["mayor"] = {
+        description = [[The Mayor is a detective role. They can spawn in place of the detective and while having normal shop access they have a Voters List. This Triggers anytime between 30-60 sec (by default) and reminds them that one of the players in the game was part of X team.
+Unfortunately the lists are disorganised so the player you get is random each time.]]
+    },
+    ["devil"] = {
+        description = [[The Devil is a neutral killer role that wants to kill traitors. The devil has no special ability apart from beeing able to see who the traitors are]]
+    },
+    ["agent"] = {
+        description = [[The agent helps the Guard by using its camera to spy on people]]
+    },
+    ["disguiser"] = {
+        description = [[The Disguiser is part of the mafia team. He is a spy on the mafia side]]
+    },
+    ["doctor"] = {
+        description = [[The doctor is a innocent that has defibrillator with him]]
+    },
+    ["guard"] = {
+        description = [[The Guard is a detective role with a camera to place to help saving the innocents]]
+    },
+    ["mercenary"] = {
+        description = [[The Mercenary is a Innocent with a Traitor shop]]
+    },
+    ["psychopath"] = {
+        description = [[The Psychopath is a Traitor with a Detective Shop]]
+    },
+    ["pursuer"] = {
+        description = [[The Pursuer is a Innocent with no Falldamage aswell as a Radar]]
+    },
+    ["trickster"] = {
+        description = [[The trickster is on its own team and has to kill everyone with his manipulation knife and jester emulator]]
+    },
+    ["venom"] = {
+        description = [[Venom is here to murder everyone. He has a grappling hook and tons of health.]]
+    },
 }
