@@ -462,4 +462,8 @@ Unfortunately the lists are disorganised so the player you get is random each ti
         description = [[The Loot Goblin is a neutral role in the Jester Slot. They are smaller, and faster than everyone else; but cannot deal damage. The Loot Goblin wins if anyone wins the game, and they lose if they die.
 When a Loot Goblin exists in the round everyone will hear a goblin laugh and will be alerted to "Kill the Goblin for it's Loot!". If you manage to kill the goblin the game annouces your victory and the Loot Goblin Drops random traitor items for everyone to enjoy. (Except the now dead goblin).]]
     },
+    ["jimbo"] = {
+        description = [[Jimbo is a Jester role similar to Swapper: they cannot deal damage, appear as a Jester to Traitors, and have a goal of being killed by others. Once killed, they and their killer will be revived as Jimbo. Even more chaos normally ensues.
+If Jimbo(s) are killed enough times and cause the last innocent/traitor to turn into Jimbo, they win.]]
+    },
 }
